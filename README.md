@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Science Skills Decal Project 1
 
 **Team Members:** [List the full names of all team members here]  
@@ -25,3 +26,6 @@ This repo includes the resumes of the following people:
 ###### [(If you have a 4th team member, otherwise delete this entire section) Name of Person that Resume 4 is about]
 * 5 sentence summary describing the person from Resume 4.
 * Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+=======
+# Project1
+>>>>>>> 34b87c8350a2d635d11fd339771bc063a2cf31da
