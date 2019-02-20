@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 68ea825beb31bf299ee88fa44d279bfc9838636b
 # Data Science Skills Decal Project 1
 
 **Team Members:** [Jeong-Hoon Yoo, Chaeyoung Kim, Peter To]  
@@ -26,8 +23,6 @@ This repo includes the resumes of the following people:
 * I am a junior majoring in Economics at the University of California. I have two summer internship experiences, one from marketing and the other from event assistant. I am currently a member of Undergraduate Economics Association academic affairs committee. I was a volunteer coordinator at UNICEF club and a marketing coordinator at Phi Beta Lambda. I have basic level of Python and R programming skills and also can work with Microsoft Office. 
 * Jobs interested in: Finance, Consulting, Economic analysts 
 
-
-=======
 
 =======
 # Project1
