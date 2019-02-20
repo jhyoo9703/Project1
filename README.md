@@ -17,16 +17,14 @@ This repo includes the resumes of the following people:
 
 
 ###### [Name of Person that Resume 2 is about]
-* 5 sentence summary describing the person from Resume 2.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+* I am currently a Junior student at University of California, Berkeley, studying Economics. I have taken numerous business- and economics- related coursework such as Micro- and Macro- Economics, International Trade, Corporate Finance,and Statistics. I have done internship at a CPA firm and have hand-on experience in auditing. I am fluent in English, Cantonese, and Mandarin. I am actively looking for internships in finance, economics, and the business field in Hong Kong and the U.S.  
+* Jobs interested in: Fiancial Analyst, Auditor, Management Trainee
 
 ###### [Name of Person that Resume 3 is about]
 * 5 sentence summary describing the person from Resume 3.
 * Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
 
-###### [(If you have a 4th team member, otherwise delete this entire section) Name of Person that Resume 4 is about]
-* 5 sentence summary describing the person from Resume 4.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+
 =======
 # Project1
 >>>>>>> 34b87c8350a2d635d11fd339771bc063a2cf31da
